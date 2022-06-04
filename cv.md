@@ -1,6 +1,6 @@
 # Anton Tsokur
 
-## Coontacts:
+## Contacts:
 
 - **E-mail:** flamer723@gmail.com
 - **Discord:** flamer(@ATsokur)
