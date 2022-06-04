@@ -3,8 +3,8 @@
 ## Coontacts:
 
 - **E-mail:** flamer723@gmail.com
-- **\*Discord:** flamer(@ATsokur)
-- **_GitHub:_** [ATsokur](https://github.com/ATsokur)
+- **Discord:** flamer(@ATsokur)
+- **GitHub:** [ATsokur](https://github.com/ATsokur)
 
 ## About me:
 
@@ -12,12 +12,15 @@ I am 26 years old. My path to learning programming started with HTML. For today 
 
 ## Example of code:
 
-```function sum(a, b) {
+```
+
+function sum(a, b) {
   return a + b;
 }
 
 console.log(sum(10, 7));
 ```
+
 
 ## Skills:
 
@@ -30,4 +33,5 @@ console.log(sum(10, 7));
 
 - **Russian**(Native)
 - **English**(A2)
-  ![Results test of English](img/level_of_english.png)
+
+![Results test of English](img/level_of_english.png)
