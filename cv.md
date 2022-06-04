@@ -8,7 +8,7 @@
 
 ## About me:
 
-I am 26 years old. My path to learning programming started with HTML. For today I know HTML, basics of CSS and little bit JavaScript. Learning to program is hard, but it's very interesting. I want to become a Front-end developer.
+My path to learning programming started with HTML. For today I know HTML, basics of CSS and little bit JavaScript. Learning to program is hard for me, but it's very interesting. I want to become a Front-end developer.
 
 ## Example of code:
 
